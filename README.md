@@ -48,6 +48,8 @@ The project combines data cleaning, exploratory data analysis, machine learning,
 - Applied K-Means clustering.
 - Identified four customer segments.
 - Analysed customer distribution across segments.
+- <img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/582ca3c2-10fe-48f9-97e4-e83a23758c0b" />
+
 
 ### 4. SQL Analysis
 Performed analytical queries using:
@@ -56,6 +58,8 @@ Performed analytical queries using:
 - Subqueries
 - Common Table Expressions (CTEs)
 - Window functions and RANK()
+- <img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/93801aa9-385d-4e49-8a40-5d9b9a0dc5b4" />
+
 
 ### 5. Power BI Dashboard
 Created an interactive dashboard featuring:
@@ -65,6 +69,8 @@ Created an interactive dashboard featuring:
 - Churn analysis by geography and age
 - Customer segment distribution
 - Customer activity analysis
+- <img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/16191418-4a3f-493a-80c6-df57f96836c8" />
+
 
 ### 6. Streamlit Dashboard
 Developed an interactive application featuring:
@@ -75,6 +81,12 @@ Developed an interactive application featuring:
 - KPI metrics and interactive charts
 - Customer details table
 - Filtered customer data download
+- <img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/2e7a7834-3654-4bf4-80ed-3000e664773a" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/8f49f1cc-a064-4416-a947-e1a06d7aa4e9" />
+<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/8e3510be-9319-4e28-bc4b-9bbc070c47dd" />
+<img width="1920" height="1080" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/43735534-112b-4fb3-b8dc-e30e31b57065" />
+
+
 
 ## 📁 Project Structure
 
